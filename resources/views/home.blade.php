@@ -18,6 +18,8 @@
                             <button tupe="submit">Add post</button>
 
                         </form>
+
+                        <h1>hello</h1>
                 </div>
             </div>
         </div>
